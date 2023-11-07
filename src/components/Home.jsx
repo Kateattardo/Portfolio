@@ -1,7 +1,6 @@
 import React from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
 import { Link } from "react-scroll";
-import ThemeToggleButton from "./ThemeToggleButton";
 
 const Home = () => {
   return (
@@ -13,10 +12,10 @@ const Home = () => {
           Kate Attardo
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-gray-400">
-          I'm a Full Stack Developer.
+          I'm a Full Stack Developer
         </h2>
         <p className="text-black py-4 max-w[700px]">
-          I Look forward to connecting with you.
+          I look forward to connecting with you.
         </p>
         <div>
           <Link to="work" smooth={true} duration={500}>

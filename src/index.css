@@ -8,6 +8,8 @@
 @layer base {
   body {
    @apply font-[Poppins];
+   background-color: var(--bg-color);
+   color: var(--text-color);
   }
   li {
     @apply px-4;
@@ -29,7 +31,31 @@
     hsla(144, 88%, 71%, 0.8)
   )!important;
 }
-[data-theme='dark'] {
-  --color-bg: #000000; /* Dark mode background */
-  --color-text: #ffffff; /* Dark mode text */
+#light {
+  background-color: #6495ed;
+}
+
+#dark {
+  background-color: #46045e;
+}
+
+.switch {
+  display:flex;
+  width:100vw;
+  height:100px;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.switch label {
+  margin: 10px;
+  color: var(--text-color)
+}
+
+#light .switch label {
+  color: black;
+}
+
+#dark .switch label {
+  color: white;
 }
