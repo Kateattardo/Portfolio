@@ -26,6 +26,10 @@
   background-image: linear-gradient(
     to right,
     rgba(112, 157, 255, 0.8),
-    hsla(242, 74%, 61%, 0.8)
+    hsla(144, 88%, 71%, 0.8)
   )!important;
+}
+[data-theme='dark'] {
+  --color-bg: #000000; /* Dark mode background */
+  --color-text: #ffffff; /* Dark mode text */
 }

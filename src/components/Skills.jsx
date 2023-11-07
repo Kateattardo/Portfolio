@@ -41,7 +41,7 @@ const Skills = () => {
           </div>
           <div className=" shadow-md hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={ReactImg} alt="React icon" />
-            <p className="my-4">React</p>
+            <p className="my-4">REACT</p>
           </div>
           <div className=" shadow-md hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Github} alt="Github icon" />
@@ -57,7 +57,7 @@ const Skills = () => {
           </div>
           <div className=" shadow-md hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Python} alt="Python icon" />
-            <p className="my-4">Python</p>
+            <p className="my-4">PYTHON</p>
           </div>
         </div>
       </div>
