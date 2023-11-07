@@ -19,7 +19,15 @@ const About = () => {
               </p>
             </div>
             <div>
-              <p>Add the about section here as well</p>
+              <p>
+                As a Full Stack Engineer, I thrive on building seamless and
+                impactful digital solutions from the ground up. With expertise
+                in both front-end and back-end development, I love transforming
+                ideas into functional, user-friendly applications. With elegant
+                user interfaces, and optimizing server performance in mind, I'm
+                always excited to enhance my skills and take on challenges to
+                keep growing.
+              </p>
             </div>
           </div>
         </div>
