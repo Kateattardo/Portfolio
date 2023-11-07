@@ -7,6 +7,7 @@ import ReactImg from "../assets/react.png";
 import Github from "../assets/github.png";
 import Mongo from "../assets/mongo.png";
 import Node from "../assets/node.png";
+import Python from "../assets/python.png";
 
 const Skills = () => {
   return (
@@ -53,6 +54,10 @@ const Skills = () => {
           <div className=" shadow-md hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Node} alt="Node icon" />
             <p className="my-4">NODE JS</p>
+          </div>
+          <div className=" shadow-md hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={Python} alt="Python icon" />
+            <p className="my-4">Python</p>
           </div>
         </div>
       </div>
