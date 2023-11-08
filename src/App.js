@@ -1,5 +1,3 @@
-// import { ThemeProvider } from "./components/ThemeContext";
-// import { useTheme } from "./components/ThemeContext";
 import React, { createContext, useState } from "react";
 import ReactSwitch from "react-switch";
 import Navbar from "./components/Navbar";
