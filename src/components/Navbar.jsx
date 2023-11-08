@@ -8,7 +8,7 @@ const Navbar = () => {
   const handleClick = () => setNav(!nav);
 
   return (
-    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#6495ed] text-gray-300">
+    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 text-gray-300">
       {/* menu */}
       <ul className=" hidden md:flex">
         <li>
@@ -47,7 +47,7 @@ const Navbar = () => {
         className={
           !nav
             ? "hidden"
-            : "absolute top-0 w-full h-screen bg-[#6495ed] felx flex-col justify-center items-center"
+            : "absolute top-0 w-full h-screen flex flex-col justify-center items-center"
         }
       >
         <li className="py-6 text-4xl">
