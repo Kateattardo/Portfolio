@@ -34,7 +34,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="/https://github.com/Kateattardo/kitchwitchClient">
                   <button
                     className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
