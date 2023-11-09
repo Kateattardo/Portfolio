@@ -26,7 +26,7 @@ const Work = () => {
                 React Js Application
               </span>
               <div className="pt-8 text-center ">
-                <a href="/https://kitchwitch-a98d3.web.app/">
+                <a href="https://kitchwitch-a98d3.web.app">
                   <button
                     className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
@@ -34,7 +34,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="/https://github.com/Kateattardo/kitchwitchClient">
+                <a href="https://github.com/Kateattardo/kitchwitchClient.git">
                   <button
                     className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
@@ -55,7 +55,7 @@ const Work = () => {
                 Express Js Application
               </span>
               <div className="pt-8 text-center ">
-                <a href="/https://parklopedia.fly.dev/parks">
+                <a href="https://parklopedia.fly.dev/parks">
                   <button
                     className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
@@ -63,7 +63,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="/https://github.com/Kateattardo/Parklopedia.git">
+                <a href="https://github.com/Kateattardo/Parklopedia.git">
                   <button
                     className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
@@ -84,7 +84,7 @@ const Work = () => {
                 Python & Django Application
               </span>
               <div className="pt-8 text-center ">
-                <a href="/https://task-master-1u4f.onrender.com/">
+                <a href="https://task-master-1u4f.onrender.com/">
                   <button
                     className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
@@ -92,7 +92,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="/https://github.com/WahidSiddiqi/task_master.git">
+                <a href="https://github.com/WahidSiddiqi/task_master.git">
                   <button
                     className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
