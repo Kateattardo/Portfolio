@@ -11,7 +11,7 @@ const Home = () => {
         <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6]">
           Kate Attardo
         </h1>
-        <h2 className="text-4xl sm:text-7xl font-bold text-gray-400">
+        <h2 className="text-4xl sm:text-7xl font-bold text-yellow-300">
           I'm a Full Stack Developer
         </h2>
         <p className="text-pink-600 py-4 max-w[700px]">
