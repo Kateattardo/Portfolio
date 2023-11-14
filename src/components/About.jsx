@@ -24,7 +24,7 @@ const About = () => {
                 impactful digital solutions from the ground up. With expertise
                 in both front-end and back-end development, I love transforming
                 ideas into functional, user-friendly applications. With elegant
-                user interfaces and optimizing server performance in mind. I'm
+                user interfaces and optimizing server performance in mind, I'm
                 always excited to enhance my skills and take on challenges to
                 keep growing. My previous background is in the arts, mental
                 health counseling, and small business ownership. This diverse
