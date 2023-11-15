@@ -5,7 +5,7 @@ import TaskMaster from "../assets/projects/TaskMaster.jpg";
 
 const Work = () => {
   return (
-    <div name="work" className="w-full md:h-screen text-yellow-300">
+    <div name="work" className="w-full md:h-screen text-[#000080]">
       <div className="mx-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 text-grey-300 border-pink-600">
