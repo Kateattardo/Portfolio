@@ -1,7 +1,13 @@
 import React from "react";
+// import { NAVY } from "../constants";
+// import { ThemeContext } from "../App";
 
-const contact = () => {
+const Contact = () => {
+  // const { theme } = useContext(ThemeContext);
+  // const containerBackground = theme === "light" ? `#ffefd5` : NAVY;
+  // const containerClassName = `contact-container bg-[${containerBackground}]`;
   return (
+    // <div className={containerClassName}>
     <div className="contact-container bg-[#ffefd5]">
       <div
         name="contact"
@@ -47,4 +53,4 @@ const contact = () => {
   );
 };
 
-export default contact;
+export default Contact;

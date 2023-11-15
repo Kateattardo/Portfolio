@@ -1,6 +1,10 @@
 import React from "react";
+// import { ThemeContext } from "../App";
+// import { YELLOW, WHITE } from "../constants";
 
 const About = () => {
+  // const { theme } = useContext(ThemeContext);
+  // const  = theme === "light" ? `text-[${YELLOW}]` : `text-white`;
   return (
     <div name="about" className="w-full h-screen text-[#000080]">
       <div className="flex flex-col justify-center items-center w-full h-full">
