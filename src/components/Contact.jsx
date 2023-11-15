@@ -22,7 +22,7 @@ const Contact = () => {
             <p className="text-4xl font-bold inline border-b-4 border-pink-600 text-[#000080]">
               Contact
             </p>
-            <p className="text-[#000080] py-4">
+            <p className="text-blue-600 py-4">
               Submit the form below or email me - kateattardo@gmail.com
             </p>
           </div>
@@ -44,7 +44,7 @@ const Contact = () => {
             rows="10"
             placeholder="Message"
           ></textarea>
-          <button className=" text-[#000080] border-2 hover:bg-pink-600 hover:border-pink-600 px-4 py-3 my-8 mx-auto flex items-center">
+          <button className=" text-blue-600 border-2 hover:bg-pink-600 hover:border-pink-600 px-4 py-3 my-8 mx-auto flex items-center">
             Let's Connect
           </button>
         </form>

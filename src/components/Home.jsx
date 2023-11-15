@@ -18,7 +18,7 @@ const Home = () => {
           Kate Attardo
         </h1>
         {/* <h2 className={`text-4xl sm:text-7xl font-bold text-[${h2Color}]`}> */}
-        <h2 className="text-4xl sm:text-7xl font-bold text-[#000080]">
+        <h2 className="text-4xl sm:text-7xl font-bold text-blue-600">
           I'm a Full Stack Developer
         </h2>
         <p className="text-pink-600 py-4 max-w[700px]">
@@ -26,7 +26,7 @@ const Home = () => {
         </p>
         <div>
           <Link to="work" smooth={true} duration={500}>
-            <button className="text-[#000080] group border-2 px-6 py-3 my-2 flex items-center hover:border-pink-600">
+            <button className="text-blue-600 group border-2 px-6 py-3 my-2 flex items-center hover:border-pink-600">
               View Work
               <span className="group-hover:rotate-90 duration-300">
                 <HiArrowNarrowRight className="ml-3" />
