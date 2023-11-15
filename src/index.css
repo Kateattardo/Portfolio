@@ -17,6 +17,10 @@
   }
 }
 
+p {
+  margin-bottom: 15px;
+}
+
 .content-div {
   background-repeat: no-repeat;
   background-size: cover;
@@ -32,11 +36,12 @@
   )!important;
 }
 #light {
-  background-color: #6495ed;
+  background-color: navy;
 }
 
 #dark {
-  background-color: navy;
+  background-color: #0a192f;
+  
 }
 
 .switch {
@@ -53,7 +58,7 @@
 }
 
 #light .switch label {
-  color: black;
+  color: white;
 }
 
 #dark .switch label {
