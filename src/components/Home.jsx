@@ -1,13 +1,8 @@
 import React from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
 import { Link } from "react-scroll";
-// import { ThemeContext } from "../App";
-// import { NAVY, YELLOW, WHITE } from "../constants";
 
 const Home = () => {
-  // const { theme } = useContext(ThemeContext);
-  // const h1Color = theme === "light" ? `text-[${YELLOW}]` : `text-white`;
-  // const h2Color = theme === "light" ? NAVY : YELLOW;
   return (
     <div name="home" className="w-full h-screen">
       {/* Container */}
